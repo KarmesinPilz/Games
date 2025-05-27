@@ -7,10 +7,10 @@ h1 {
   color: #4F8A8B; 
 }
 p { 
-  color: #2a2736; 
+  color: #333; 
 }
 .container { 
-  background: white; 
+  background: #3a403a; 
   padding: 20px; 
   border-radius: 8px; 
   max-width: 600px; 
